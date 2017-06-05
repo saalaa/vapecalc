@@ -1,0 +1,29 @@
+<resources>
+
+    <style name="AppTheme" parent="Theme.AppCompat.Light.DarkActionBar">
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+        <item name="colorAccent">@color/colorAccent</item>
+        <item name="android:typeface">monospace</item>
+    </style>
+
+    <style name="mono" parent="@android:style/TextAppearance.Medium">
+        <item name="android:typeface">monospace</item>
+    </style>
+
+    <style name="caption" parent="@style/mono">
+        <item name="android:layout_marginTop">10dp</item>
+        <item name="android:textSize">12dp</item>
+    </style>
+
+    <style name="unknown" parent="@style/mono">
+        <item name="android:textColor">@color/colorAccent</item>
+    </style>
+
+    <style name="Widget.Design.Snackbar" parent="@style/mono">
+        <item name="android:textSize">12dp</item>
+        <item name="android:background">@color/colorError</item>
+        <item name="android:textColor">@color/colorTextError</item>
+    </style>
+
+</resources>
