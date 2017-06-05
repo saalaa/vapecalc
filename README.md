@@ -7,6 +7,10 @@ database. Ensures you're vaping safely.
 
 This is a free app, it contains no ads and requires no permissions.
 
+Play Store entry:
+
+- https://play.google.com/store/apps/details?id=xyz.myard.vapecalc
+
 Screenshots:
 
 ![Screenshot 1](https://github.com/saalaa/vapecalc/raw/master/Screenshot-1.png)
